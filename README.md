@@ -3,7 +3,7 @@
 
 Welcome to my GitHub page. Currently, I am enrolled at UCI and plan to graduate in 2025 with a Computer Science B.S degree.
 
-Most of the projects uploaded in my repository includes what I've created at UCI. Most of the projects are mainly **Python**, but I also have expertise in **Java**, **JavaScript**, **HTML/CSS**, and **R**. 
+Most of the projects uploaded in my repository includes what I've created at UCI. Most of the projects are mainly **Python**, but I also have expertise in **Java**, **JavaScript**, **HTML/CSS**, and **MySQL**. 
 
 Currently in the ICSSC Fellowship Program
 
